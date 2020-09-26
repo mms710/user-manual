@@ -26,7 +26,7 @@ Tips and tricks for working with me.
 - My leadership style is collaborative. I love getting in a room with a team and hammering out a solution together rather than dictating a solution.
 - Process should be as lightweight as possible. Process should make things faster and safer, not slower and frustrating. I often refer to myself as someone who hates process but builds it all the time. I know "people over process" is an overused term - I align with that pretty well, and would rephrase it as "I trust people to do the right thing", and process is just there to make it easier for them to know how".
 - What I like to see in managers: people that build healthy, thriving teams where team members are growing and feel psychologically safe, and their teams get shit done.
-- Diversity, Inclusion, Equity, and Belonging: This is table stakes.
+- Diversity, Inclusion, Equity, and Belonging: this is table stakes.
 
 ## Triggers (How to make me annoyed or at least roll my eyes inwardly)
 - Stagnation
