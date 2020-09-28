@@ -2,6 +2,8 @@
 
 Tips and tricks for working with me.
 
+Pronouns: she/her/hers
+
 ## My Values
 
 - Honesty
