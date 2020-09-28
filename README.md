@@ -2,7 +2,7 @@
 
 Tips and tricks for working with me.
 
-Pronouns: she/her/hers
+**Pronouns:** she/her/hers
 
 ## My Values
 
@@ -16,7 +16,7 @@ Pronouns: she/her/hers
 - People. I care a lot about building relationships and building strong teams of people. When people have strong, trusting, open and honest relationships, they can work miracles together.
 - Making people's lives better and fixing things. I love going into a situation where everything is a mess, and wrangling it to a place where people feel motivated, have good work/life balance, we're making customers happy, and things are operationally sustainable.
 - I like doing hard things. I will often pick the hardest thing I can think of to do and go after that.
-- If you're into the BICEPS model, my most important core need is Improvement/Progress. I get frustrated when things aren't moving or we keep making the same mistakes without learning; bikeshedding drives me up a wall. Conversely, I love making things better and I love growing and improving teams and myself.
+- If you're into the BICEPS model, my most important core need is Improvement/Progress. I get frustrated when things aren't moving or we keep making the same mistakes without learning. Conversely, I love making things better and I love growing and improving teams and myself.
 - If you're into the SCARF model, my most important core need is autonomy. I like large problems that my teams and I can solve with maximal autonomy possible.
 
 ## Me as a Manager
@@ -33,6 +33,7 @@ Pronouns: she/her/hers
 - Stagnation
 - Arrogance
 - Bureaucracy
+- Bikeshedding
 - Judging people based on anything but their abilities
 - Telling me why can't do it and should all just give up anyway
 - Dad jokes
