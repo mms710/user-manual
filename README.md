@@ -47,6 +47,8 @@ Tips and tricks for working with me.
 - I highly value clear, succint communication. I feel most natural when I'm using a casual and crisp communication style.
 - I spent a lot of my formative software engineering years in DevOps. I'll talk your ear off about monitoring, architecture, hardware, and ops battle scars.
 - If you tell me I *can't* do something, I'm definitely going to do it.
+- MY SDI is Blue
 - My Myers-Briggs is ENFJ
+- My Enneagram is 7
 - My DnD alignment is chaotic good
 - I'm very into food and drinks and I travel a lot. I could talk for hours about cooking, good restaurants and bars, or travel recommendations.
