@@ -38,6 +38,8 @@ Tips and tricks for working with me.
 - Telling me why can't do it and should all just give up anyway
 - Dad jokes
 
+If you notice me getting annoyed, feel free to call me out that I seem annoyed and I'll calm right down.
+
 ## Tips and Tricks
 
 - I want to hear what's broken, especially if you have a solution for how to fix it. I'm a fixer and I love being surrounded by people that spot problems and want to improve them.
