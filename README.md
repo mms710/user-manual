@@ -46,6 +46,7 @@ If you notice me getting annoyed, feel free to call me out that I seem annoyed a
 - I love feedback because I'm a perfectionist and I always want to get better. I prefer feedback in an asyncronous format (like Slack) so that I can digest and ask thoughtful questions, but I will happily take it in whatever form you can give. It is most important to me that we retain a positive relationship.
 - I'm very free with feedback - if I'm giving you feedback it's because I beleive in you and think you can get better. I stop giving feedback when I know it's not being heard or is unwanted.
 - I love creative solutioning. It brings me a lot of joy when I'm thinking of a problem from a specific direction and someone finds a side door or sidesteps the problem entirely.
+- Rule-breaking sparks joy for me, both when others do it and when I get to
 - I highly value clear, succint communication. I feel most natural when I'm using a casual and crisp communication style.
 - I spent a lot of my formative software engineering years in DevOps. I'll talk your ear off about monitoring, architecture, hardware, and ops battle scars.
 - If you tell me I *can't* do something, I'm definitely going to do it.
